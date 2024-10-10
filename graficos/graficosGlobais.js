@@ -12,7 +12,7 @@ async function vizualizaDadosGlobais(){
    paragrafo.classList.add('graficos-texto')
    const container = document.getElementById('graficos-container')
    paragrafo.innerHTML = `O mundo tem ${totalPessoasMundo} bilhões de habitantes,dos quais
-   ${totalPessoasConectadas} bilhões estão conectadas em algumas rede social por um tempo médio de ${tempoMedio}.`
+   ${totalPessoasConectadas} bilhões estão conectadas em algumas rede social por um tempo médio de ${tempoMedio} horas.`
    container.appendChild(paragrafo);
 
 }
