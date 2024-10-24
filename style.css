@@ -2,7 +2,7 @@
 :root{
     --cor-de-fundo:#fbe4fc;
     --cor-primaria:#0b0c0b;
-    --cor-secundaria:hwb(320 73% 3%);
+    --cor-secundaria:hwb(44 89% 3% / 0.966);
     --fonte: "Nunito", sans-serif;
 }
 *{
