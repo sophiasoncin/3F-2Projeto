@@ -49,6 +49,9 @@ footer{
     color: var(--cor-de-fundo);
     text-align: center;
 }
+.grafico{
+    margin-top: 5rem;
+}
 .graficos-container{
     margin: 2rem;
 }
